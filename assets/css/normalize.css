@@ -31,7 +31,10 @@ audio,
 canvas,
 video {
     display: inline-block;
+<<<<<<< HEAD
     width: 100%;
+=======
+>>>>>>> 0fddd0b9d2655a27df2b0958562a8d4f3b44e219
 }
 
 /**
